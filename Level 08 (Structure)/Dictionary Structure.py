@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      chand
-#
-# Created:     09-01-2024
-# Copyright:   (c) chand 2024
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 print("Dictionary :- \n")
 
 marks = {"maths" : 97, "english" :  95, "physics" : 98}

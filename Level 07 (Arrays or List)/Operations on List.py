@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      chand
-#
-# Created:     09-01-2024
-# Copyright:   (c) chand 2024
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 print("Performing Operation on List :- \n")
 
 marks = [89, 87, 94, 97]
