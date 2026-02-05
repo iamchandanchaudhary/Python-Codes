@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      chand
-#
-# Created:     07-01-2024
-# Copyright:   (c) chand 2024
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 print("Logical Operator :- \n")
 
 print("Not Operator :- ")
