@@ -36,6 +36,3 @@ Data Types
 │   └── memoryview → Memory view object
 └── None
     └── NoneType   → Represents absence of value
-
-import keyword
-print(keyword.kwlist)
