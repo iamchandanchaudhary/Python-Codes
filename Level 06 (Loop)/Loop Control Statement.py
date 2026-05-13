@@ -1,4 +1,3 @@
-
 # break: Stop at first even number 
 print("break example:")
 for num in [1, 3, 7, 4, 9, 2]:
